@@ -7,3 +7,5 @@ There is basically one overview file that will be shown to students. (which is n
 
 # Installation
 Open the overview.md in any editor or simply on github. Period.
+
+.
